@@ -1,0 +1,11 @@
+C:\Users\keimp\Desktop\rustTest\chess_unsigned\target\debug\deps\ppv_lite86-1d40e66e4528b34b.rmeta: C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\lib.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\soft.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\types.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\mod.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\sse2.rs
+
+C:\Users\keimp\Desktop\rustTest\chess_unsigned\target\debug\deps\libppv_lite86-1d40e66e4528b34b.rlib: C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\lib.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\soft.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\types.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\mod.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\sse2.rs
+
+C:\Users\keimp\Desktop\rustTest\chess_unsigned\target\debug\deps\ppv_lite86-1d40e66e4528b34b.d: C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\lib.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\soft.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\types.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\mod.rs C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\sse2.rs
+
+C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\lib.rs:
+C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\soft.rs:
+C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\types.rs:
+C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\mod.rs:
+C:\Users\keimp\.cargo\registry\src\github.com-1ecc6299db9ec823\ppv-lite86-0.2.17\src\x86_64\sse2.rs:
